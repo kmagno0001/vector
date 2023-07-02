@@ -1,7 +1,5 @@
 #include <algorithm>
 
-
-
 template< typename T>
 class Vec {
 public:
